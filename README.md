@@ -27,3 +27,8 @@ Preparation
 `python app.py`
 or 
 `flask run`
+
+View this page at my github.io repository:
+https://github.com/Louis-Durand/Louis-Durand.github.io
+or directly online at :
+https://louis-durand.github.io/
