@@ -1,4 +1,4 @@
-# Practice Task 1 Louis Durand
+# Homework 1 Louis Durand
 
 This is my submission of Homework 1
 
